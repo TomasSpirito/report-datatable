@@ -1,0 +1,148 @@
+{
+    "delegates": [
+        {
+            "delegateName": "Alabama Delegate",
+            "details": [
+                {
+                    "fullName": "John Doeass",
+                    "ngausMemberId": "123456",
+                    "payGrade": "E-5",
+                    "rank": "Sergeant",
+                    "branch": "Army",
+                    "dutyStatus": "Active",
+                    "caucuses": {
+                        "warrantOfficerCaucusArmy": true,
+                        "areaIIIArmyCaucus": false,
+                        "retiredAirForce": false,
+                        "committeeOnJointResolutions": true,
+                        "retiredArmy": false,
+                        "areaIIIAirForceCaucus": false,
+                        "committeeOnAirForceResolutions": true,
+                        "companyGradeAirForce": false,
+                        "companyGradeArmy": true,
+                        "committeeOnNominations": true,
+                        "committeeOnArmyResolutions": false
+                    }
+                },
+                {
+                    "fullName": "Michael Smithson",
+                    "ngausMemberId": "987654",
+                    "payGrade": "E-6",
+                    "rank": "Staff Sergeant",
+                    "branch": "Army",
+                    "dutyStatus": "Active",
+                    "caucuses": {
+                        "warrantOfficerCaucusArmy": false,
+                        "areaIIIArmyCaucus": true,
+                        "retiredAirForce": false,
+                        "committeeOnJointResolutions": false,
+                        "retiredArmy": false,
+                        "areaIIIAirForceCaucus": true,
+                        "committeeOnAirForceResolutions": true,
+                        "companyGradeAirForce": true,
+                        "companyGradeArmy": false,
+                        "committeeOnNominations": false,
+                        "committeeOnArmyResolutions": true
+                    }
+                }
+            ]
+        },
+        
+        {
+            "delegateName": "Alaska Delegate",
+            "details": {
+                "fullName": "Jane Doe",
+                "ngausMemberId": "654321",
+                "payGrade": "E-6",
+                "rank": "Staff Sergeant",
+                "branch": "Air Force",
+                "dutyStatus": "Retired",
+                "caucuses": {
+                    "warrantOfficerCaucusArmy": false,
+                    "areaIIIArmyCaucus": true,
+                    "retiredAirForce": true,
+                    "committeeOnJointResolutions": false,
+                    "retiredArmy": false,
+                    "areaIIIAirForceCaucus": false,
+                    "committeeOnAirForceResolutions": false,
+                    "companyGradeAirForce": true,
+                    "companyGradeArmy": false,
+                    "committeeOnNominations": false,
+                    "committeeOnArmyResolutions": true
+                }
+            }
+        },
+        {
+            "delegateName": "California Delegate",
+            "details": {
+                "fullName": "Richard Roe",
+                "ngausMemberId": "789012",
+                "payGrade": "E-4",
+                "rank": "Corporal",
+                "branch": "Marines",
+                "dutyStatus": "Active",
+                "caucuses": {
+                    "warrantOfficerCaucusArmy": false,
+                    "areaIIIArmyCaucus": false,
+                    "retiredAirForce": false,
+                    "committeeOnJointResolutions": true,
+                    "retiredArmy": true,
+                    "areaIIIAirForceCaucus": true,
+                    "committeeOnAirForceResolutions": false,
+                    "companyGradeAirForce": false,
+                    "companyGradeArmy": true,
+                    "committeeOnNominations": true,
+                    "committeeOnArmyResolutions": false
+                }
+            }
+        },
+        {
+            "delegateName": "Colorado Delegate",
+            "details": {
+                "fullName": "Emily Smith",
+                "ngausMemberId": "345678",
+                "payGrade": "E-7",
+                "rank": "Sergeant First Class",
+                "branch": "Army",
+                "dutyStatus": "Active",
+                "caucuses": {
+                    "warrantOfficerCaucusArmy": true,
+                    "areaIIIArmyCaucus": true,
+                    "retiredAirForce": false,
+                    "committeeOnJointResolutions": false,
+                    "retiredArmy": false,
+                    "areaIIIAirForceCaucus": false,
+                    "committeeOnAirForceResolutions": true,
+                    "companyGradeAirForce": false,
+                    "companyGradeArmy": false,
+                    "committeeOnNominations": true,
+                    "committeeOnArmyResolutions": true
+                }
+            }
+        },
+        {
+            "delegateName": "Florida Delegate",
+            "details": {
+                "fullName": "David Johnson",
+                "ngausMemberId": "135792",
+                "payGrade": "E-8",
+                "rank": "Master Sergeant",
+                "branch": "Air Force",
+                "dutyStatus": "Retired",
+                "caucuses": {
+                    "warrantOfficerCaucusArmy": false,
+                    "areaIIIArmyCaucus": true,
+                    "retiredAirForce": true,
+                    "committeeOnJointResolutions": false,
+                    "retiredArmy": true,
+                    "areaIIIAirForceCaucus": true,
+                    "committeeOnAirForceResolutions": true,
+                    "companyGradeAirForce": true,
+                    "companyGradeArmy": false,
+                    "committeeOnNominations": false,
+                    "committeeOnArmyResolutions": true
+                }
+            }
+        }
+    ]
+}
